@@ -11,6 +11,8 @@ class App extends React.Component {
             (position) => console.log(position),
             (err) => console.log(err)
         );
+
+        // Checking push from VSCode
     } 
 
     render() {
